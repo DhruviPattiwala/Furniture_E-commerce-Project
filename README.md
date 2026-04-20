@@ -51,13 +51,6 @@ bun dev
 
    npm install
 
-
-2. env file:
-
-   MONGODB_URI=mongodb://localhost:27017/Furniture_ECommerce_Application
-   JWT_SECRET='hjjkhjdfgj567878798dfgdfgdfgfgfdg345456'
-   JWT_REFRESH_SECRET='hfiortyty6765756cvncvnsieot787rdfgdgdfg676'
-
 ##  Authentication Flow
 
 - User logs in → receives Access Token + Refresh Token
