@@ -28,7 +28,7 @@ Users can browse products, search, filter, manage cart & wishlist, and place ord
 
 ### Backend
 - Next.js API Routes
-- MongoDB (Mongoose)
+- MongoDB Atlas(Mongoose)
 - JWT Authentication
 
 ## Getting Started
